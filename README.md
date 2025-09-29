@@ -1,4 +1,3 @@
-# Tugas-Akhir-Judul-2
 #include <iostream>
 using namespace std;
 
